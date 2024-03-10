@@ -1,0 +1,16 @@
+
+
+
+body{
+    background-color: rgb(194, 194, 194);
+}
+#child{
+    font-size: larger;
+    color: rgb(49, 56, 18);
+}
+
+#para1{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 100px;
+}
+
